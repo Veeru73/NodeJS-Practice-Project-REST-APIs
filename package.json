@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-practice-project-rest-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veeru73/NodeJS-Practice-Project-REST-APIs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Veeru73/NodeJS-Practice-Project-REST-APIs/issues"
+  },
+  "homepage": "https://github.com/Veeru73/NodeJS-Practice-Project-REST-APIs#readme"
+}
